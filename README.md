@@ -49,24 +49,24 @@ npm run build
 ## Tworzenie własnej mapy-3 etap
 Aby stworzyć własną mapę należy skorzystać z programu dostępnego pod tym linkiem [Tiled](https://www.mapeditor.org/)
 Otwieramy ściągnięty program:
-[I krok](https://github.com/jfx21/Sokoban/tree/main/img/4.png)
+[I krok](https://github.com/jfx21/Sokoban/tree/main/img/4.png?raw=true)
 klikamy na 'New Map'
 
-[II krok](https://github.com/jfx21/Sokoban/tree/main/img/5.png)
+[II krok](https://github.com/jfx21/Sokoban/tree/main/img/5.png?raw=true)
 Wybieramy parametry tak jak na zdjęciu,
 
-[III krok](https://github.com/jfx21/Sokoban/tree/main/img/1.png)
+[III krok](https://github.com/jfx21/Sokoban/tree/main/img/1.png?raw=true)
 powinniśmy dostać taki widok.
 
-[IV krok](https://github.com/jfx21/Sokoban/tree/main/img/2.png)
+[IV krok](https://github.com/jfx21/Sokoban/tree/main/img/2.png?raw=true)
 Dodajemy 'new tileset' o nazwie 'Sokoban' z parametrami tak jak na grafice, 'image source' znajduje się w folderze 
 /public/assets/sokoban_tilesheet.png klikamy i dodajemy
-[Zdjęcie poglodowe](https://github.com/jfx21/Sokoban/tree/main/img/3.png)
+[Zdjęcie poglodowe](https://github.com/jfx21/Sokoban/tree/main/img/3.png?raw=true)
 
-[V krok](https://github.com/jfx21/Sokoban/tree/main/img/7.png)
+[V krok](https://github.com/jfx21/Sokoban/tree/main/img/7.png?raw=true)
 Zmieniamy nazwe 'Tile Layer 1' na 'Layer'
 
-[VI krok](https://github.com/jfx21/Sokoban/tree/main/img/6.png)
+[VI krok](https://github.com/jfx21/Sokoban/tree/main/img/6.png?raw=true)
 Z ukazanych kafelków na mapie możemy korzystac przy budowie jej własnej wersji.
 
 Ostatni krok

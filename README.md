@@ -76,7 +76,7 @@ Dodajemy 'new tileset' o nazwie 'Sokoban' z parametrami tak jak na grafice, 'ima
 Zmieniamy nazwe 'Tile Layer 1' na 'Layer'
 
 ![VI krok](img/6.png?raw=true)
-Z ukazanych kafelków na mapie możemy korzystac przy budowie jej własnej wersji.
+Z ukazanych kafelków na mapie możemy korzystac przy budowie jej własnej wersji, po pro
 
 Ostatni krok
 

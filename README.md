@@ -24,7 +24,7 @@ Instalacja Parcel'a:
 npm install -g parcel bundler
 ```
 
-## Instalacja
+## Instalacja gry
 Gre można ściagnać wedle uznania np. za pomocą ściągnięcia paczki zip,
 natomiast ja prefereuje wersje konsolową:
 

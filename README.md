@@ -68,7 +68,7 @@ Dodajemy 'new tileset' o nazwie 'Sokoban' z parametrami tak jak na grafice, 'ima
 ![V krok](https://github.com/jfx21/Sokoban/tree/main/img/7.png?raw=true)
 Zmieniamy nazwe 'Tile Layer 1' na 'Layer'
 
-![VI krok](https://github.com/jfx21/Sokoban/tree/main/img/6.png?raw=true)
+![VI krok]img/6.png?raw=true)
 Z ukazanych kafelków na mapie możemy korzystac przy budowie jej własnej wersji.
 
 Ostatni krok

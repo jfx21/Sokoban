@@ -48,6 +48,7 @@ npm run build
 ```
 ## Tworzenie własnej mapy-3 etap
 Aby stworzyć własną mapę należy skorzystać z programu dostępnego pod tym linkiem [Tiled](https://www.mapeditor.org/)
+
 Otwieramy ściągnięty program:
 ![I krok](https://github.com/jfx21/Sokoban/tree/main/img/4.png?raw=true)
 klikamy na 'New Map'

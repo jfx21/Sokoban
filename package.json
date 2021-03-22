@@ -1,0 +1,52 @@
+{
+	"name": "phaser3",
+	"version": "1.0.0",
+	"description": "Sokoban",
+	"scripts": {
+		"start": "parcel src/index.html -p 8000",
+		"build": "parcel build src/index.html --out-dir dist",
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"lint": "eslint ./src --ext .js,.jsx,.ts,.tsx"
+	},
+	"author": "jfx",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url":"https://github.com/jfx21/Game"
+	},
+	"devDependencies": {
+		"@types/mathjs": "^6.0.11",
+		"@types/node": "^14.14.35",
+		"@typescript-eslint/eslint-plugin": "^2.29.0",
+		"@typescript-eslint/parser": "^2.29.0",
+		"eslint": "^6.8.0",
+		"minimist": ">=1.2.2",
+		"parcel-plugin-clean-easy": "^1.0.2",
+		"parcel-plugin-static-files-copy": "^2.4.3",
+		"typescript": "^3.8.3"
+	},
+	"dependencies": {
+		"file-system": "^1.2.2",
+		"fs": "^0.0.1-security",
+		"jsx-dom": "^7.0.0-beta.2",
+		"mathjs": "^9.3.0",
+		"matter": "^0.2.0",
+		"phaser": "^3.50.1",
+		"phaser3-rex-plugins": "^1.1.41",
+		"phaser3-rex-plugins-types": "^0.1.0",
+		"react": "^16.14.0",
+		"ui": "^0.2.4",
+		"utils": "^0.3.1",
+		"webfontloader": "^1.6.28"
+	},
+	"parcelCleanPaths": [
+		"dist"
+	],
+	"staticFiles": {
+		"staticPath": "public",
+		"watcherGlob": "**"
+	},
+	"resolutions": {
+		"@babel/preset-env": "7.13.8"
+	}
+}

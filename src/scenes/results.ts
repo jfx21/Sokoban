@@ -28,7 +28,6 @@ export default class Results extends Phaser.Scene
         this.events.on(Phaser.Scenes.Events.SHUTDOWN, () =>{
             this.cache.tilemap.remove('tilemap')
         });
-        //TODO results table with 'Grid Table'
         
         this.add.text(width *0.45, height*0.2, 'Results', {
             fontFamily: 'DotGothic16',
@@ -45,9 +44,11 @@ export default class Results extends Phaser.Scene
                     this.add.dom(110,50,goback)
                         .addListener('click').once('click',() =>{
                             this.sound.play('click',{volume: 0.25})
-
-                            this.scene.start('game',{level: this.current_lvl+1})
-                            //this.sound.stopAll()
+                            if(this.current_lvl == undefined)
+                                this.scene.start('game',{level:1})
+                            else{
+                                this.scene.start('game',{level: this.current_lvl+1})
+                            }
                         })
     }
     

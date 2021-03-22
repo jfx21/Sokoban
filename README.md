@@ -46,6 +46,8 @@ Aby zbudować:
 ```bash
 npm run build
 ```
+## Sterowanie
+W grze postacią za pomocą strzałek
 ## Tworzenie własnej mapy-3 etap
 Aby stworzyć własną mapę należy skorzystać z programu dostępnego pod tym linkiem [Tiled](https://www.mapeditor.org/)
 

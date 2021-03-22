@@ -73,7 +73,8 @@ Z ukazanych kafelków na mapie możemy korzystac przy budowie jej własnej wersj
 
 Ostatni krok
 
-Klikamy 'file>export as' następnie zapisujemy go jako 'level$.json' (gdzie $ jest liczbą od 21-32) w folderze /public/levels
+Klikamy 'file>export as' następnie zapisujemy go jako 'level$.json' (gdzie $ jest liczbą od 21-32) w folderze gry 
+/public/levels
 
 
 ## Credits 

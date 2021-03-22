@@ -49,6 +49,29 @@ npm run build
 ## Tworzenie własnej mapy-3 etap
 Aby stworzyć własną mapę należy skorzystać z programu dostępnego pod tym linkiem [Tiled](https://www.mapeditor.org/)
 Otwieramy ściągnięty program:
+[I krok](https://github.com/jfx21/Sokoban/tree/main/img/4.png)
+klikamy na 'New Map'
+
+[II krok](https://github.com/jfx21/Sokoban/tree/main/img/5.png)
+Wybieramy parametry tak jak na zdjęciu,
+
+[III krok](https://github.com/jfx21/Sokoban/tree/main/img/1.png)
+powinniśmy dostać taki widok.
+
+[IV krok](https://github.com/jfx21/Sokoban/tree/main/img/2.png)
+Dodajemy 'new tileset' o nazwie 'Sokoban' z parametrami tak jak na grafice, 'image source' znajduje się w folderze 
+/public/assets/sokoban_tilesheet.png klikamy i dodajemy
+[Zdjęcie poglodowe](https://github.com/jfx21/Sokoban/tree/main/img/3.png)
+
+[V krok](https://github.com/jfx21/Sokoban/tree/main/img/7.png)
+Zmieniamy nazwe 'Tile Layer 1' na 'Layer'
+
+[VI krok](https://github.com/jfx21/Sokoban/tree/main/img/6.png)
+Z ukazanych kafelków na mapie możemy korzystac przy budowie jej własnej wersji.
+
+Ostatni krok
+
+Klikamy 'file>export as' następnie zapisujemy go jako 'level$.json' (gdzie $ jest liczbą od 21-32) w folderze /public/levels
 
 
 ## Credits 

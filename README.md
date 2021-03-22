@@ -57,17 +57,22 @@ Otwieramy ściągnięty program:
 klikamy na 'New Map'
 
 ![II krok](img/5.png?raw=true)
+
 Wybieramy parametry tak jak na zdjęciu,
 
 ![III krok](img/1.png?raw=true)
+
 powinniśmy dostać taki widok.
 
 ![IV krok](img/2.png?raw=true)
+
 Dodajemy 'new tileset' o nazwie 'Sokoban' z parametrami tak jak na grafice, 'image source' znajduje się w folderze 
 /public/assets/sokoban_tilesheet.png klikamy i dodajemy
+
 ![Zdjęcie poglodowe](https://github.com/jfx21/Sokoban/tree/main/img/3.png?raw=true)
 
 ![V krok](img/7.png?raw=true)
+
 Zmieniamy nazwe 'Tile Layer 1' na 'Layer'
 
 ![VI krok](img/6.png?raw=true)

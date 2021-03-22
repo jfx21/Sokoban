@@ -3,7 +3,7 @@
 
 ## Przygotowanie środowiska
 
-Żeby gra ładnie chodziła potrzebny będzie przede wszystkim serwer lokalny 'localhost' np. na Mac'u . [MAMP](https://www.mamp.info/en/downloads/)
+Żeby gra ładnie chodziła potrzebny będzie serwer lokalny 'localhost' np. na Mac'u . [MAMP](https://www.mamp.info/en/downloads/)
 na windowsie [xammp](https://www.apachefriends.org/download.html) oraz 
 
 Dla użytkowników systemów linuksowych i mac os:
@@ -51,21 +51,21 @@ Aby stworzyć własną mapę należy skorzystać z programu dostępnego pod tym 
 
 Otwieramy ściągnięty program:
 
-![I krok](https://github.com/jfx21/Sokoban/tree/main/img/4.png?raw=true)
+![I krok](img/4.png?raw=true)
 klikamy na 'New Map'
 
-![II krok](https://github.com/jfx21/Sokoban/tree/main/img/5.png?raw=true)
+![II krok](img/5.png?raw=true)
 Wybieramy parametry tak jak na zdjęciu,
 
-![III krok](https://github.com/jfx21/Sokoban/tree/main/img/1.png?raw=true)
+![III krok](img/1.png?raw=true)
 powinniśmy dostać taki widok.
 
-![IV krok](https://github.com/jfx21/Sokoban/tree/main/img/2.png?raw=true)
+![IV krok](img/2.png?raw=true)
 Dodajemy 'new tileset' o nazwie 'Sokoban' z parametrami tak jak na grafice, 'image source' znajduje się w folderze 
 /public/assets/sokoban_tilesheet.png klikamy i dodajemy
 ![Zdjęcie poglodowe](https://github.com/jfx21/Sokoban/tree/main/img/3.png?raw=true)
 
-![V krok](https://github.com/jfx21/Sokoban/tree/main/img/7.png?raw=true)
+![V krok](img/7.png?raw=true)
 Zmieniamy nazwe 'Tile Layer 1' na 'Layer'
 
 ![VI krok](img/6.png?raw=true)

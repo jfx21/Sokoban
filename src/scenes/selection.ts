@@ -1,6 +1,6 @@
 import Phaser,{DOM} from 'phaser'
-import {primaryButton} from '~/ui/button.jsx'
-import WebFontFile from '~/files/font.ts'
+import {primaryButton} from '../ui/button.jsx'
+import WebFontFile from '../files/font.ts'
 
 export default class selection extends Phaser.Scene
 {

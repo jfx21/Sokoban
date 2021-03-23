@@ -35,7 +35,7 @@ git clone "https://github.com/jfx21/Sokoban.git"
 ```
 Przechodzimy do folderu gdzie ściągneliśmy gre
 ```bash
-cd Sokoban ##domyślnie tak zostanie zapisany
+cd Sokoban ##domyślnie floder zostanie tak zapisany
 npm install
 ```
 Startujemy server

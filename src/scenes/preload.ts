@@ -1,4 +1,3 @@
-//import math from 'mathjs'
 import Phaser from 'phaser'
 import WebFontFile from '~/files/font'
 import { primaryButton } from '~/ui/button.jsx'

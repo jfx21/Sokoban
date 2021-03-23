@@ -3,7 +3,8 @@
 
 ## Przygotowanie środowiska
 
-Polecam korzystać z przeglądarek innych niż safari i internet explorer gdyż może to powodować pewne problemy. np. firefox, opera
+Polecam korzystać z przeglądarek innych niż safari i internet explorer gdyż może to powodować pewne problemy np. firefox czy opera.
+
 Do odpalenaia gry potrzebny będzie serwer lokalny 'localhost' np. na Mac'u . [MAMP](https://www.mamp.info/en/downloads/)
 na windowsie [xammp](https://www.apachefriends.org/download.html) oraz 
 
@@ -41,6 +42,7 @@ Startujemy server
 ```bash
 npm run start
 ```
+Przy instalacjii mogą wyskoczy 4 błedy, proszę się nie przejmować bo nie mają one wpływy na funkcjonowanie aplikacji. 
 Odpalając grę proszę odświeżyć raz stronę aby się załadowała czcionka google'a.
 
 Aby zbudować:

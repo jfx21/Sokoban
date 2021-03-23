@@ -1,5 +1,5 @@
 import Phaser from 'phaser'
-import {primaryButton} from '../ui/button'
+import {primaryButton} from '../ui/button.jsx'
 
 export default class OwnMap extends Phaser.Scene
 {

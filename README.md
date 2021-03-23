@@ -29,7 +29,7 @@ Gre można ściagnać wedle uznania np. za pomocą ściągnięcia paczki zip,
 natomiast ja prefereuje wersje konsolową:
 
 ```bash
-git clone "https://github.com/jfx21/Game.git" nazwa-folderu-do-którego-klonujemy
+git clone "https://github.com/jfx21/Sokoban.git" nazwa-folderu-do-którego-klonujemy
 ```
 Przechodzimy do folderu gdzie ściągneliśmy gre
 ```bash

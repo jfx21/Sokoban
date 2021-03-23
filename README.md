@@ -3,6 +3,7 @@
 
 ## Przygotowanie środowiska
 
+Polecam korzystać z przeglądarek innych niż safari i internet explorer gdyż może to powodować pewne problemy.
 Żeby gra ładnie chodziła potrzebny będzie serwer lokalny 'localhost' np. na Mac'u . [MAMP](https://www.mamp.info/en/downloads/)
 na windowsie [xammp](https://www.apachefriends.org/download.html) oraz 
 

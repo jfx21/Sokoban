@@ -1,11 +1,11 @@
 import Phaser, { Data, Tilemaps } from 'phaser'
-import * as Colors from '../consts/color'
-import {boxColorToTargetColor,targetColorToBoxColor} from '../utils/ColorUtils'
-import {offsetForDirection} from '../utils/TileUtils'
-import {Direction} from '../consts/Direction'
-import {baseTweenForDirection} from '../utils/TweenU'
-import isAllTargetsCovered from '../targets/isAllTargetsCovered'
-import {primaryButton} from '../ui/button'
+import * as Colors from '../consts/color.ts'
+import {boxColorToTargetColor,targetColorToBoxColor} from '../utils/ColorUtils.ts'
+import {offsetForDirection} from '../utils/TileUtils.ts'
+import {Direction} from '../consts/Direction.ts'
+import {baseTweenForDirection} from '../utils/TweenU.ts'
+import isAllTargetsCovered from '../targets/isAllTargetsCovered.ts'
+import {primaryButton} from '../ui/button.jsx'
 
 
 

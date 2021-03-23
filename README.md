@@ -29,11 +29,11 @@ Gre można ściagnać wedle uznania np. za pomocą ściągnięcia paczki zip,
 natomiast ja prefereuje wersje konsolową:
 
 ```bash
-git clone "https://github.com/jfx21/Sokoban.git" nazwa-folderu-do-którego-klonujemy
+git clone "https://github.com/jfx21/Sokoban.git"
 ```
 Przechodzimy do folderu gdzie ściągneliśmy gre
 ```bash
-cd 'folder-z-gra'
+cd Sokoban ##domyślnie tak zostanie zapisany
 npm install
 ```
 Startujemy server

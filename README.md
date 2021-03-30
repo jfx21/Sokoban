@@ -35,11 +35,11 @@ npm install -g parcel bundler
 ## Instalacja gry
 Gre można ściagnać wedle uznania np. za pomocą ściągnięcia paczki zip,
 natomiast ja prefereuje wersje konsolową:
+//jeżeli nie posiadamy gita to można go zainstalować z tej [strony](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ```bash
 git clone "https://github.com/jfx21/Sokoban.git"
 ```
-//jeżeli nie posiadamy gita to można go zainstalować z tej [strony](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 Przechodzimy do folderu gdzie ściągneliśmy gre
 ```bash

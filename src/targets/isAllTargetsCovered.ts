@@ -1,4 +1,4 @@
-import {targetColorToBoxColor} from '../utils/ColorUtils'
+import {targetColorToBoxColor} from '../utils/ColorUtils.ts'
 
 const isAllTargetsCovered = (targetsCoveredByColor: { [key: number]: number }, boxesByColor: { [key: number]: Phaser.GameObjects.Sprite[] }) => {
         const targetColors = Object.keys(targetsCoveredByColor)

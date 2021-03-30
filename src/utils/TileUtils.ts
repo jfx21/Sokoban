@@ -1,4 +1,4 @@
-import {Direction} from '../consts/Direction'
+import {Direction} from '../consts/Direction.ts'
 const TILE_SIZE = 64
 const offsetForDirection = (direction: Direction, steps = 1) =>{
     const multipler = steps -1

@@ -12,6 +12,13 @@ Dla użytkowników systemów linuksowych i mac os:
 
 [Parcel](https://parceljs.org/), [Node.js](https://github.com/nvm-sh/nvm) oraz [npm](https://www.npmjs.com/) 
 , które warto zainstalować z [nvm](https://github.com/nvm-sh/nvm)
+Instalacja nvm:
+```bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+//lub
+wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+```
+Więcej informacji co do instalacji proszę szukać w podanym wyżej linku 'nvm'.
 
 Wersja [nvm](https://github.com/coreybutler/nvm-windows) dla systemów windowsowych 
 

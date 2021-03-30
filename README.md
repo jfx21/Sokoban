@@ -39,6 +39,7 @@ natomiast ja prefereuje wersje konsolową:
 ```bash
 git clone "https://github.com/jfx21/Sokoban.git"
 ```
+jeżeli nie posiadamy gita to można go zainstalować z tej [strony](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 Przechodzimy do folderu gdzie ściągneliśmy gre
 ```bash
 cd Sokoban ##domyślnie floder zostanie tak zapisany

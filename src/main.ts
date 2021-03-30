@@ -1,5 +1,5 @@
 import Phaser from 'phaser'
-import Game from './scenes/Game.ts'
+import Game from './scenes/game.ts'
 import GameStop from "./scenes/GameStop.ts"
 import Preloader from './scenes/preload.ts'
 import selection from './scenes/selection.ts'

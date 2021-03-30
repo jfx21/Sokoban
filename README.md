@@ -5,14 +5,15 @@
 
 Polecam korzystać z przeglądarek innych niż safari i internet explorer gdyż może to powodować pewne problemy np. firefox czy opera. Gra była robiona na mac os więc jeżeli to możliwe to proszę o jej testowanie na tym systemie, ubuntu miewał pewne problemy przy kompilacji.
 
+# Serwer lokalny
 Do odpalenaia gry potrzebny będzie serwer lokalny 'localhost' np. na Mac'u . [MAMP](https://www.mamp.info/en/downloads/)
 na windowsie [xammp](https://www.apachefriends.org/download.html) oraz 
 
-Dla użytkowników systemów linuksowych i mac os:
-
+# Potrzebne narzędzia
 [Parcel](https://parceljs.org/), [Node.js](https://github.com/nvm-sh/nvm) oraz [npm](https://www.npmjs.com/) 
-, które warto zainstalować z [nvm](https://github.com/nvm-sh/nvm)
-Instalacja nvm:
+, które warto zainstalować z [nvm](https://github.com/nvm-sh/nvm)-dla systemów linuxowych i mac os, [nvm](https://github.com/coreybutler/nvm-windows)-dla systemów windowsowych 
+
+Instalacja nvm 
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 //lub
@@ -20,7 +21,7 @@ wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 ```
 Więcej informacji co do instalacji proszę szukać w podanym wyżej linku 'nvm'.
 
-Wersja [nvm](https://github.com/coreybutler/nvm-windows) dla systemów windowsowych 
+#
 
 Instalacja npm oraz Node.js:
 ```bash

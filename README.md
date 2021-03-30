@@ -21,8 +21,6 @@ wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 ```
 Więcej informacji co do instalacji proszę szukać w podanym wyżej linku 'nvm'.
 
-#
-
 Instalacja npm oraz Node.js:
 ```bash
 nvm install node

@@ -1,4 +1,4 @@
-import {Direction} from "../consts/direction"
+import {Direction} from "../consts/direction.ts"
 interface IBaseTween
 {
     x?: number | string 

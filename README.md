@@ -5,11 +5,11 @@
 
 Polecam korzystać z przeglądarek innych niż safari i internet explorer gdyż może to powodować pewne problemy np. firefox czy opera. Gra była robiona na mac os więc jeżeli to możliwe to proszę o jej testowanie na tym systemie, ubuntu miewał pewne problemy przy kompilacji.
 
-# Serwer lokalny
+### Serwer lokalny
 Do odpalenaia gry potrzebny będzie serwer lokalny 'localhost' np. na Mac'u . [MAMP](https://www.mamp.info/en/downloads/)
 na windowsie [xammp](https://www.apachefriends.org/download.html) oraz 
 
-# Potrzebne narzędzia
+### Potrzebne narzędzia
 [Parcel](https://parceljs.org/), [Node.js](https://github.com/nvm-sh/nvm) oraz [npm](https://www.npmjs.com/) 
 , które warto zainstalować z [nvm](https://github.com/nvm-sh/nvm)-dla systemów linuxowych i mac os, [nvm](https://github.com/coreybutler/nvm-windows)-dla systemów windowsowych 
 

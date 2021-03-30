@@ -38,12 +38,14 @@ Przechodzimy do folderu gdzie ściągneliśmy gre
 cd Sokoban ##domyślnie floder zostanie tak zapisany
 npm install
 ```
-Startujemy server
+Przy instalacjii mogą wyskoczy 4 błedy, proszę się nie przejmować bo nie mają one wpływy na funkcjonowanie aplikacji.
+
+Startujemy server localhost, następnie:
 ```bash
 npm run start
 ```
-Przy instalacjii mogą wyskoczy 4 błedy, proszę się nie przejmować bo nie mają one wpływy na funkcjonowanie aplikacji. 
-Odpalając grę proszę odświeżyć raz stronę aby się załadowała czcionka google'a.
+
+Proszę odświeżyć raz stronę aby się załadowała czcionka google'a.
 
 Aby zbudować:
 ```bash

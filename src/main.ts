@@ -1,11 +1,11 @@
 import Phaser from 'phaser'
-import Game from './scenes/Game'
-import GameStop from "./scenes/GameStop"
-import Preloader from './scenes/preload'
-import selection from './scenes/selection'
-import avancer from './scenes/lvlavancer'
-import results from './scenes/results'
-import OwnMap from './scenes/ownmap'
+import Game from './scenes/Game.ts'
+import GameStop from "./scenes/GameStop.ts"
+import Preloader from './scenes/preload.ts'
+import selection from './scenes/selection.ts'
+import avancer from './scenes/lvlavancer.ts'
+import results from './scenes/results.ts'
+import OwnMap from './scenes/ownmap.ts'
 
 const config: Phaser.Types.Core.GameConfig = {
 	type: Phaser.AUTO,

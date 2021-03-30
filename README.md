@@ -13,7 +13,7 @@ na windowsie [xammp](https://www.apachefriends.org/download.html) oraz
 [Parcel](https://parceljs.org/), [Node.js](https://github.com/nvm-sh/nvm) oraz [npm](https://www.npmjs.com/) 
 , które warto zainstalować z [nvm](https://github.com/nvm-sh/nvm)-dla systemów linuxowych i mac os, [nvm](https://github.com/coreybutler/nvm-windows)-dla systemów windowsowych 
 
-Instalacja nvm 
+#### Instalacja nvm na linuxie i mac os:
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 //lub
@@ -21,13 +21,13 @@ wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 ```
 Więcej informacji co do instalacji proszę szukać w podanym wyżej linku 'nvm'.
 
-Instalacja npm oraz Node.js:
+#### Instalacja npm oraz Node.js:
 ```bash
 nvm install node
 
 nvm use node
 ```
-Instalacja Parcel'a:
+#### Instalacja Parcel'a:
 ```bash
 npm install -g parcel bundler
 ```

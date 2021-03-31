@@ -19,6 +19,13 @@ export default class OwnMap extends Phaser.Scene
             fontFamily: 'DotGothic16',
             fontSize: 24
         })
+        const goback = primaryButton('Back to menu') as HTMLElement
+                    this.add.dom(110,50,goback)
+                        .addListener('click').once('click',() =>{
+                            this.sound.play('click',{volume: 0.25})
+                            this.scene.start('selection')
+                            this.sound.stopAll()
+                        })
         const nextlvlbutton = primaryButton('Level 21') as HTMLElement
         this.add.dom(width*0.2,height*0.5,nextlvlbutton)
             .addListener('click').once('click', () =>{

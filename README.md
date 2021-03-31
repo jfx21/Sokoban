@@ -6,7 +6,7 @@
 Polecam korzystać z przeglądarek innych niż safari i internet explorer gdyż może to powodować pewne problemy np. firefox czy opera. Gra była robiona na mac os więc jeżeli to możliwe to proszę o jej testowanie na tym systemie, ubuntu miewał pewne problemy przy kompilacji.
 
 ### Serwer lokalny
-Do odpalenaia gry potrzebny będzie serwer lokalny 'localhost' np. na Mac'u . [MAMP](https://www.mamp.info/en/downloads/)
+Do odpalenaia gry potrzebny będzie serwer lokalny 'localhost' np. na Mac'u - [MAMP](https://www.mamp.info/en/downloads/),
 na windowsie i linuxie [xammp](https://www.apachefriends.org/download.html) oraz 
 
 ### Potrzebne narzędzia
@@ -14,6 +14,8 @@ na windowsie i linuxie [xammp](https://www.apachefriends.org/download.html) oraz
 , które warto zainstalować z [nvm](https://github.com/nvm-sh/nvm)-dla systemów linuxowych i mac os, [nvm](https://github.com/coreybutler/nvm-windows)-dla systemów windowsowych 
 
 #### Instalacja nvm na linuxie i mac os:
+Możliwe, że na mac os będzie potrzeba zainstalowania 'developer tools' po wpisniu komendy 'git' w terminalu powinno wyskoczyć okno, na którym możemy wybrać tego instalacje.
+
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 //lub

@@ -3,7 +3,7 @@
 
 ## Przygotowanie środowiska
 
-Polecam korzystać z przeglądarek innych niż safari i internet explorer gdyż może to powodować pewne problemy np. firefox czy opera. Gra była robiona na mac os więc jeżeli to możliwe to proszę o jej testowanie na tym systemie, ubuntu miewał pewne problemy przy kompilacji.
+Polecam korzystać z przeglądarek innych niż safari i internet explorer gdyż może to powodować pewne problemy np. firefox czy opera. Gra była robiona na mac os więc jeżeli to możliwe to proszę o jej testowanie na tym systemie, ubuntu miewał pewne problemy przy kompilacji. Na mac os bedzię potrzebny zainstalowany xcode.
 
 ### Serwer lokalny
 Do odpalenaia gry potrzebny będzie serwer lokalny 'localhost' np. na Mac'u - [MAMP](https://www.mamp.info/en/downloads/),
